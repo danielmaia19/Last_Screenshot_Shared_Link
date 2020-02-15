@@ -1,1 +1,1 @@
-# Creates a link to share the last screenshot in your library.
+# Generates a link to share your last screenshot
